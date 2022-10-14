@@ -8,7 +8,7 @@
 I'm data analyst. I quickly navigate the documentation in English. I'm a former journalist and showrunner. All the best from the past profession transferred to a new one.
 
 <p align='center'>
-   <a href="linkedin.com/in/yuriy-alekseev-7a8722253" target="_blank">
+   <a href="https://linkedin.com/in/yuriy-alekseev-7a8722253" target="_blank">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/Yrius" target="_blank">

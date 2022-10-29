@@ -5,7 +5,7 @@
 <p align="center"><img src='http://i.ibb.co/SyYP943/enterprise-data-science-1.png'></p>
 
 # Hi, I'm Yuriy 👋
-I'm data analyst. I quickly navigate the documentation in English. I'm a former journalist and showrunner. All the best from the past profession transferred to a new one.
+I'm data analyst. I quickly navigate the documentation in English. I'm a former journalist and mediabusinessman. All the best from the past profession transferred to a new one.
 
 <p align='center'>
    <a href="https://linkedin.com/in/yuriy-alekseev-7a8722253" target="_blank">

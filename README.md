@@ -65,7 +65,7 @@ ________________________________________________________________________________
 Project name | Description | Libraries used
 ------ | ------|----------
 [Tested brand](https://github.com/Yourius/Tested_brand)|Your mission is to provide a recommendation to the Tested brand team that will allow them to maximize sales. To do this you have to answer several questions from steps 1 – 4 below for each experiment and generate the tables with resulting numbers according to the given templates in a template file.|_pandas_
-[POS_Company_BPMN_diagram_description](pos_ompany_bpmn_diagram_description)|Describe BPMN diagram and translate from Russian into English.|_Google.Docs_
+
 
 __________________________________________________________________________________________________________________________
 ## Другие проекты

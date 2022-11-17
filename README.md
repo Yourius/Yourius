@@ -42,10 +42,10 @@ ________________________________________________________________________________
   
 </p>
 
-## Репозиторий для хранения и демонстрации проектов, выволненных в ходе обучения профессии "Аналитик данных (Data Analyst)" (A repository for storing and demonstrating projects completed during the training for the profession "Data Analyst" in Yandex. Practicum)
+## Проекты, выволненныe в ходе обучающей практики "Аналитик данных (Data Analyst)" в "Яндекс.Практикум" (Projects completed during the training for the profession "Data Analyst" in Yandex. Practicum)
 
-В данном репозитории хранятся проекты и их описания с указанием используемых библиотек. Исходные датасеты не предоставляются.
-(This repository stores projects and their descriptions, indicating the libraries used. Source datasets are not provided.)
+Исходные датасеты не предоставляются.
+(Source datasets are not provided.)
 ## Описание проектов:
 
 Название проекта | Описание | Используемые библиотеки
@@ -60,7 +60,16 @@ ________________________________________________________________________________
 [Анализ взаимодействия пользователей с карточками Яндекс.Дзен.](https://github.com/Yourius/Projects_Ya/tree/main/dashboard)|Необходимо построить дашборд и подготовить презентацию.|_Tableau_
 
 __________________________________________________________________________________________________________________________
+## Projects in English
 
 Project name | Description | Libraries used
 ------ | ------|----------
-[Tested brand. Test task for a European company](https://github.com/Yourius/Tested_brand)|Your mission is to provide a recommendation to the Tested brand team that will allow them to maximize sales. To do this you have to answer several questions from steps 1 – 4 below for each experiment and generate the tables with resulting numbers according to the given templates in a template file.|_pandas_
+[Tested brand](https://github.com/Yourius/Tested_brand)|Your mission is to provide a recommendation to the Tested brand team that will allow them to maximize sales. To do this you have to answer several questions from steps 1 – 4 below for each experiment and generate the tables with resulting numbers according to the given templates in a template file.|_pandas_
+[POS_Company_BPMN_diagram_description](pos_ompany_bpmn_diagram_description)|Describe BPMN diagram and translate from Russian into English.|_Google.Docs_
+
+__________________________________________________________________________________________________________________________
+## Другие проекты
+
+Название проекта | Описание | Используемые библиотеки
+------ | ------|----------
+[ML. Прогноз визитов на информационный сайт](https://github.com/Yourius/Tests/blob/main/tested_rbc.ipynb)|Составить прогноз визитов на год и проанализировать показатели визитов, просмотров, пользователей за два предыдущих года.|_pandas, matplotlib, prophet_

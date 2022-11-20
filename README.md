@@ -42,8 +42,8 @@ ________________________________________________________________________________
   
 </p>
 
-## Проекты, выволненныe в ходе обучающей практики "Аналитик данных (Data Analyst)" в "Яндекс.Практикум" (Projects completed during the training for the profession "Data Analyst" in Yandex. Practicum)
-
+## Проекты, выволненныe в ходе обучающей практики "Аналитик данных" в "Яндекс.Практикум" 
+(Projects completed during the training for the profession "Data Analyst" in Yandex. Practicum)
 Исходные датасеты не предоставляются.
 (Source datasets are not provided.)
 ## Описание проектов:

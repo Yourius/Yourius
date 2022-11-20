@@ -2,8 +2,6 @@
 <a id='RUS'></a>
 <a href="#ENG"><img src='https://img.shields.io/badge/RUS-ENG-blue'></a>
 
-<p align="center"><img src='http://i.ibb.co/SyYP943/enterprise-data-science-1.png'></p>
-
 # Hi, I'm Yuriy 👋
 I'm data analyst. I quickly navigate the documentation in English. I'm a former journalist and mediabusinessman. All the best from the past profession transferred to a new one.
 

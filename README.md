@@ -40,12 +40,9 @@ ________________________________________________________________________________
   
 </p>
 
-## Аналитика данных. Проекты, выволненныe в ходе обучающей практики в "Яндекс.Практикум". 
+## Аналитика данных. Проекты, выволненныe в ходе обучающей практики в "Яндекс.Практикум" | Data Analysis. Projects completed during the internship in Yandex.Practicum
 
-(Projects completed during the training for the profession "Data Analyst" in Yandex. Practicum)
-
-Исходные датасеты не предоставляются.
-(Source datasets are not provided.)
+Исходные датасеты не предоставляются. | Source datasets are not provided.
 ## Описание проектов:
 
 Название проекта | Описание | Используемые библиотеки

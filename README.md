@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 Project name | Description | Libraries used
 ------ | ------|----------
-[The task is to evaluate the results of the A/B-Test](https://github.com/Yourius/Projects-in-English/blob/main/github_final_AB_project_ya_en/github_final_AB_project_ya_en.ipynb)|Testing changes related to the introduction of an improved recommender system |_pandas, seaborn, matplotlib, plotly, numpy, pylab, math, datetime, scipy_
+[The mission is to evaluate the results of the A/B-Test](https://github.com/Yourius/Projects-in-English/blob/main/github_final_AB_project_ya_en/github_final_AB_project_ya_en.ipynb)|Testing changes related to the introduction of an improved recommender system |_pandas, seaborn, matplotlib, plotly, numpy, pylab, math, datetime, scipy_
 [Tested brand](https://github.com/Yourius/Tested_brand)|Your mission is to provide a recommendation to the Tested brand team that will allow them to maximize sales. To do this you have to answer several questions from steps 1 – 4 below for each experiment and generate the tables with resulting numbers according to the given templates in a template file.|_pandas_
 __________________________________________________________________________________________________________________________
 ## Аналитика данных. Проекты, выволненныe в ходе обучающей практики в "Яндекс.Практикум" | Data Analysis. Projects completed during the internship in Yandex.Practicum

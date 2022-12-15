@@ -39,7 +39,13 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   
 </p>
+## Data Analysis. Projects in English
 
+Project name | Description | Libraries used
+------ | ------|----------
+[Tested brand](https://github.com/Yourius/Tested_brand)|Your mission is to provide a recommendation to the Tested brand team that will allow them to maximize sales. To do this you have to answer several questions from steps 1 – 4 below for each experiment and generate the tables with resulting numbers according to the given templates in a template file.|_pandas_
+[The task is to evaluate the results of the A/B-Test](https://github.com/Yourius/Projects-in-English/blob/main/github_final_AB_project_ya_en/github_final_AB_project_ya_en.ipynb)|Testing changes related to the introduction of an improved recommender system |_pandas, seaborn, matplotlib, plotly, numpy, pylab, math, datetime, scipy_
+__________________________________________________________________________________________________________________________
 ## Аналитика данных. Проекты, выволненныe в ходе обучающей практики в "Яндекс.Практикум" | Data Analysis. Projects completed during the internship in Yandex.Practicum
 
 Исходные датасеты не предоставляются. | Source datasets are not provided.
@@ -55,14 +61,6 @@ ________________________________________________________________________________
 [Проект по изучению портрета клиентов банка и выявления критериев, влияющих на погашение кредитов в срок.](https://github.com/Yourius/Projects_Ya/tree/main/credits_bank)|Цель - получение сведений для разработки модели кредитного скоринга.|_pandas_
 [Проект для сервиса недвижимости с целью выявить особенности и зависимости рынка жилой недвижимости Санкт-Петербурга и Ленинградской области.](https://github.com/Yourius/Projects_Ya/tree/main/real_estate)|Полученные сведения нужны для разработки автоматизированной системы, которая будет отслеживать аномалии и мошенническую деятельность.|_pandas, matplotlib, seaborn_
 [Анализ взаимодействия пользователей с карточками Яндекс.Дзен.](https://github.com/Yourius/Projects_Ya/tree/main/dashboard)|Необходимо построить дашборд и подготовить презентацию.|_Tableau_
-
-__________________________________________________________________________________________________________________________
-## Data Analysis. Projects in English
-
-Project name | Description | Libraries used
------- | ------|----------
-[Tested brand](https://github.com/Yourius/Tested_brand)|Your mission is to provide a recommendation to the Tested brand team that will allow them to maximize sales. To do this you have to answer several questions from steps 1 – 4 below for each experiment and generate the tables with resulting numbers according to the given templates in a template file.|_pandas_
-
 
 __________________________________________________________________________________________________________________________
 ## Другие проекты | Other projects

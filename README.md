@@ -45,6 +45,7 @@ ________________________________________________________________________________
 Project name | Description | Libraries used
 ------ | ------|----------
 [The mission is to evaluate the results of the A/B-Test](https://github.com/Yourius/Projects-in-English/blob/main/github_final_AB_project_ya_en/github_final_AB_project_ya_en.ipynb)|Testing changes related to the introduction of an improved recommender system |_pandas, seaborn, matplotlib, plotly, numpy, pylab, math, datetime, scipy_
+[Bank's customers outflow Analysis Project](https://github.com/Yourius/Projects-in-English/blob/main/gihub_final_project_banks_en/gihub_final_project_banks_en.ipynb)|Mission - research analysis, including obtaining correlations and portraits of clients; allocation of compact high-precision segments, provision of recommendations on identified segments |_pandas, seaborn, matplotlib, numpy, scipy, math, pylab, multicomp, phik_ 
 [Tested brand](https://github.com/Yourius/Tested_brand)|Your mission is to provide a recommendation to the Tested brand team that will allow them to maximize sales. To do this you have to answer several questions from steps 1 – 4 below for each experiment and generate the tables with resulting numbers according to the given templates in a template file.|_pandas_
 __________________________________________________________________________________________________________________________
 ## Аналитика данных. Проекты, выволненныe в ходе обучающей практики в "Яндекс.Практикум" | Data Analysis. Projects completed during the internship in Yandex.Practicum
@@ -54,6 +55,7 @@ ________________________________________________________________________________
 
 Название проекта | Описание | Используемые библиотеки
 ------ | ------|----------
+[Проект по анализу отточных клиентов банка](https://github.com/Yourius/Projects_Ya/blob/main/gihub_final_project_banks_ru/gihub_final_project_banks_ru.ipynb)|Цель - провести исследовательский анализ, включающий исследование корреляций и портретов клиентов; выделить компактные высокоотточные сегменты, дать конкретные рекомендации по данным сегментам |_pandas, seaborn, matplotlib, numpy, scipy, math, pylab, multicomp, phik_ 
 [Проект по изучению особенностей поведения пользователей мобильного приложения по продаже продуктов питания](https://github.com/Yourius/Projects_Ya/tree/main/funnel_A_A_B_test)|Цель - построить воронку событий, провести множественные A\A\B-тесты |_pandas, seaborn, matplotlib, numpy, scipy, math, pylab, multicomp_
 [Проект по исследованию и визуализации рынка общественного питания Москвы **(bonus - презентация + вдохновляющий комментарий ревьюера)**](https://github.com/Yourius/Projects_Ya/tree/main/moscow_catering_market) | Цель - подготовить конкретные рекомендации и презентовать полученные результаты, которые помогут инвесторам в выборе места для нового заведения. | _pandas, missingno, folium, seaborn, matplotlib, plotly, numpy_
 [Проект по подготовке и проверке статистических гипотез для крупного интернет-магазина.](https://github.com/Yourius/Projects_Ya/tree/main/AB_test_M_W)| Цель - увеличение выручки|_pandas, seaborn, matplotlib, numpy, scipy, pylab_

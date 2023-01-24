@@ -13,7 +13,7 @@ I'm data analyst. I quickly navigate the documentation in English. I'm a former 
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:jurij@ya.ru'>jurij19861986@gmail.com</a>
+   📫 How to reach me: <a href='mailto:jurij@ya.ru'>yriusdataanalyst@gmail.com</a>
 </p>
   
 

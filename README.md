@@ -72,4 +72,4 @@ ________________________________________________________________________________
 Название проекта | Описание | Используемые библиотеки
 ------ | ------|----------
 [ML. Прогноз визитов на информационный сайт](https://github.com/Yourius/Tests/blob/main/tested_rbc.ipynb)|Составить прогноз визитов на год и проанализировать показатели визитов, просмотров, пользователей за два предыдущих года.|_pandas, matplotlib, prophet_
-[Проект по построению roll rate и матриц миграции банковского портфеля](https://github.com/Yourius/Tests/blob/main/git_pet_project_roll_rate_migration_matrix.ipynb)||_pandas, matplotlib, numpy, plotly_
+[Проект по построению roll rate и матриц миграции банковского портфеля](https://github.com/Yourius/Tests/blob/main/git_pet_project_roll_rate_migration_matrix.ipynb)|В нашем распоряжении количество кредитов по шести категориям за ноябрь 2022 г. и распределение этих же кредитов по категориям месяц спустя.|_pandas, matplotlib, numpy, plotly_

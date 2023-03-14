@@ -3,7 +3,7 @@
 <a href="#ENG"><img src='https://img.shields.io/badge/RUS-ENG-blue'></a>
 
 # Hi, I'm Yuriy 👋
-I'm data analyst. I quickly navigate the documentation in English. I'm a former journalist and media intrepreneur. All the best from the past profession transferred to a new one.
+I'm data analyst. I quickly navigate the documentation in English. I'm a former journalist and media intrepreneur. All the best from the last profession transferred to a new one.
 
 <p align='center'>
    <a href="https://linkedin.com/in/yuriy-alekseev-7a8722253" target="_blank">

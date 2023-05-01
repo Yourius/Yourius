@@ -56,6 +56,8 @@ Project name | Description | Libraries used
 Project name | Description | Libraries used
 ------ | ------|----------
 [ML. Regression. Melbourn]()|Estate Price Prediction |_pandas, seaborn, matplotlib, catboost, sklearn, optuna, joblib, shap_
+
+</p>
 __________________________________________________________________________________________________________________________
 ## Аналитика данных. Проекты, выволненныe в ходе обучающей практики в "Яндекс.Практикум" | Data Analysis. Projects completed during the internship in Yandex.Practicum
 

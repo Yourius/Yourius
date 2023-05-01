@@ -48,6 +48,14 @@ Project name | Description | Libraries used
 [Bank's customers outflow Analysis Project](https://github.com/Yourius/Projects-in-English/blob/main/gihub_final_project_banks_en/gihub_final_project_banks_en.ipynb)|Mission - research analysis, including obtaining correlations and portraits of clients; allocation of compact high-precision segments, provision of recommendations on identified segments |_pandas, seaborn, matplotlib, numpy, scipy, math, pylab, multicomp, phik_ 
 [Tested brand](https://github.com/Yourius/Tested_brand)|Your mission is to provide a recommendation to the Tested brand team that will allow them to maximize sales. To do this you have to answer several questions from steps 1 – 4 below for each experiment and generate the tables with resulting numbers according to the given templates in a template file.|_pandas_
 [Pet project. Roll rate and migration matrix](https://github.com/Yourius/Projects-in-English/blob/main/git_pet_project_roll_rate_migration_matrix_en.ipynb)|We have the number of loans in six categories for November 2022 and the accumulation of the same loans by category a month later. The data is synthetic.|_pandas, matplotlib, numpy, plotly_
+
+</p>
+
+## Data Analysis. Projects in English
+
+Project name | Description | Libraries used
+------ | ------|----------
+[ML. Regression. Melbourn]()|Estate Price Prediction |_pandas, seaborn, matplotlib, catboost, sklearn, optuna, joblib, shap_
 __________________________________________________________________________________________________________________________
 ## Аналитика данных. Проекты, выволненныe в ходе обучающей практики в "Яндекс.Практикум" | Data Analysis. Projects completed during the internship in Yandex.Practicum
 

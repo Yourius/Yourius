@@ -51,7 +51,7 @@ Project name | Description | Libraries used
 
 </p>
 
-## Data Analysis. Projects in English
+## Kaggle
 
 Project name | Description | Libraries used
 ------ | ------|----------

@@ -56,7 +56,7 @@ Project name | Description | Libraries used
 Project name | Description | Libraries used
 ------ | ------|----------
 [ML. Regression. Melbourn](https://github.com/Yourius/ML/blob/main/train_regression_kaggle_melbourne.ipynb)|Estate Price Prediction |_pandas, seaborn, matplotlib, catboost, sklearn, optuna, joblib, shap_
-[ML. Classifacion. Smoking](https://github.com/Yourius/ML/blob/main/train_classification_kaggle_smoking.ipynb)|prediction whether the patient is a smoker or not|_pandas, seaborn, matplotlib, catboost, sklearn, optuna, joblib, shap_
+[ML. Classifacion. Smoking](https://github.com/Yourius/ML/blob/main/train_classification_kaggle_smoking.ipynb)|Prediction whether the patient is a smoker or not|_pandas, seaborn, matplotlib, catboost, sklearn, shap_
 
 
 

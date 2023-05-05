@@ -56,6 +56,10 @@ Project name | Description | Libraries used
 Project name | Description | Libraries used
 ------ | ------|----------
 [ML. Regression. Melbourn](https://github.com/Yourius/ML/blob/main/train_regression_kaggle_melbourne.ipynb)|Estate Price Prediction |_pandas, seaborn, matplotlib, catboost, sklearn, optuna, joblib, shap_
+[ML. Classifacion. Smoking](https://github.com/Yourius/ML/blob/main/train_classification_kaggle_smoking.ipynb)|prediction whether the patient is a smoker or not|_pandas, seaborn, matplotlib, catboost, sklearn, optuna, joblib, shap_
+
+
+
 __________________________________________________________________________________________________________________________
 ## Аналитика данных. Проекты, выволненныe в ходе обучающей практики в "Яндекс.Практикум" | Data Analysis. Projects completed during the internship in Yandex.Practicum
 
